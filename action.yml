@@ -1,4 +1,4 @@
-name: "S3 Cache for GitHub Actions"
+name: "Custom S3 Cache for GitHub Actions"
 description: "GitHub Action that allows you to cache build artifacts to S3"
 branding:
   icon: "archive"
